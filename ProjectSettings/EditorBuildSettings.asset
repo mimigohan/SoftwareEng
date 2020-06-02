@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 60e8bb6f43569d948947f98b7e6859bc
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/Block Breaker Start.unity
+    guid: 6163c95a00441924db85af7fdc472885
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Level 1.unity
+    guid: 8fba453f69e1ca648a0d60f0277ebc88
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Level 2.unity
+    guid: d0b7287fd3695a94f95ec2179f34e167
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Level 3.unity
+    guid: b0be6bf28b4904a4a8021ce35b59f8d0
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Level 4.unity
+    guid: 883d289f39148f242904a74f36f9de0d
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Level 5.unity
+    guid: e2d34fc812116fe45996f9be652c6173
+  - enabled: 1
+    path: Assets/Scenes/Block_Breaker/BB Game Over.unity
+    guid: 570e39153a49d944192f69abc39ed415
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_StartA.unity
+    guid: 36da1814834c54343823713950631d7e
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_001.unity
+    guid: 93c48406b0c09a1418b0864ac9e3a095
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_002.unity
+    guid: b1624271bb98fb64490032c2289a9317
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_003.unity
+    guid: 35b4091bdfbf69a4e9fa89780accbb56
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_004.unity
+    guid: 691ece83fc5630b4596d34a663192ce8
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_005.unity
+    guid: 592420e148fbd734181b4108452f622b
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_006.unity
+    guid: f565273a59959ed4db92e78c95491bcc
+  - enabled: 1
+    path: Assets/Scenes/Space_Invader/SI_End.unity
+    guid: cee2d22c76a9a824b9bdfec7fa9a33c2
+  - enabled: 1
+    path: Assets/Scenes/World_Catcher/WC Start.unity
+    guid: 0bb2456db3d0a5b4ab9cf5d506d735b8
+  - enabled: 1
+    path: Assets/Scenes/World_Catcher/WC Level 1.unity
+    guid: c458958ae5932c342a0a14047e381ae0
+  - enabled: 1
+    path: Assets/Scenes/World_Catcher/WC Level 2.unity
+    guid: 4883bd7fea82f14428e21c350ca24080
+  - enabled: 1
+    path: Assets/Scenes/World_Catcher/WC Level 3.unity
+    guid: e294f6cbbc4a9e54f9a2eab50c8ecdb8
+  - enabled: 1
+    path: Assets/Scenes/World_Catcher/WCGameOver.unity
+    guid: 3f8d7ff85a1b0aa499b634875adf362c
+  m_configObjects: {}
